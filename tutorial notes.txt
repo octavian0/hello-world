@@ -15,8 +15,10 @@ Then work in Desktop
 How to get changes back into github.com
  (try then verify by checkng in browser at github.com)
 
+ * when you make changes locally (e.g. save in editor like textmate)
+
  
  
  
  some more changes at 4:12pm to get 
-
+and more to get a chance for commit notes
