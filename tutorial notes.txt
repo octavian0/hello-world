@@ -7,11 +7,16 @@ if working in github.com (browser), then "clone" from code brings repository dow
  - To clone and open the repository with GitHub Desktop, click Open with GitHub Desktop.
 
 Then work in Desktop
- - new branch
+ - try new branch
  
 
 
 
 How to get changes back into github.com
  (try then verify by checkng in browser at github.com)
+
+ 
+ 
+ 
+ some more changes at 4:12pm to get 
 
