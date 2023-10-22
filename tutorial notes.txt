@@ -1,0 +1,17 @@
+
+if working in github.com (browser), then "clone" from code brings repository down local
+ - Cloning a repository from GitHub to GitHub Desktop
+ - Sign in to GitHub.com and GitHub Desktop before you start to clone.
+ - On GitHub.com, navigate to the main page of the repository.
+ - Above the list of files, click Code.
+ - To clone and open the repository with GitHub Desktop, click Open with GitHub Desktop.
+
+Then work in Desktop
+ - new branch
+ 
+
+
+
+How to get changes back into github.com
+ (try then verify by checkng in browser at github.com)
+
