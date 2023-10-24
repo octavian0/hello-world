@@ -22,3 +22,10 @@ How to get changes back into github.com
  
  some more changes at 4:12pm to get 
 and more to get a chance for commit notes
+
+changes to a branch (e.g. test_local_chx) still need to be committed to 
+get them into the local branch
+then you need a push to get them to origin (github.com) version of the branch (as 
+opposed to main)
+
+
