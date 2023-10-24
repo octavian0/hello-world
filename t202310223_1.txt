@@ -3,3 +3,12 @@ started 20231023
 will then merge locally
 then push to repository on github.com 
 
+--------------------------------
+this change is being made to the to the test_local_chx branch locally on my labtop
+and "managed" or at least viewed via github desktop
+to see what it takes to get this up to the test_local_chx branch on 
+github.com (and seen via the browser)
+
+
+
+
